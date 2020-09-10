@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "372210",
+      "name": "cc-menu-circle",
+      "font_class": "cc-menu-circle",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "1307516",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "3265205",
+      "name": "头盔",
+      "font_class": "toukui",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "8504840",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "8948238",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "15140304",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e510",
+      "unicode_decimal": 58640
+    }
+  ]
+}
